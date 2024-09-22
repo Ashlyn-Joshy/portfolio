@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 
 const Navbar = () => {
-  const [isDark, setIsDark] = useState(true);
+  const [isDark, setIsDark] = useState(false);
 
   const handleDark = () => {
     setIsDark(!isDark);
