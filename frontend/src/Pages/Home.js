@@ -47,7 +47,7 @@ const Home = () => {
           <li>
             <SocialIcon
               bgColor="black"
-              network="medium"
+              network="rss"
               url="https://ashlynjoshy.hashnode.dev/"
             />
           </li>
